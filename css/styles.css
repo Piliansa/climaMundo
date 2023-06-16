@@ -4,7 +4,9 @@ html {
     background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
 }
-
+.container {
+  background-image: url(./Ilustración_sin_título.jpg);
+}
 
 .sk-fading-circle {
     margin: 100px auto;
