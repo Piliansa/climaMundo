@@ -77,7 +77,7 @@ function mostrarClima(datos) {
     const sensaT = kACentigrados(feels_like);
 
     const nombreCiudad = document.createElement('p');
-    nombreCiudad.textContent = `Clima en ${name}`;
+    nombreCiudad.textContent = `Info del Clima en ${name} para Nico`;
     nombreCiudad.classList.add('font-bold', 'text-2xl');
 
     const actual = document.createElement('p');
